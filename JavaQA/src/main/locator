@@ -1,0 +1,32 @@
+Form : Đăng ký
+* Textbox: Nhập họ và tên :
+#sign-up__popup_normal_register_form [class=form-group] [name = fullname ]
+* Textbox: Nhập email:
+#sign-up__popup_normal_register_form [class=form-group] [name = email]
+* Textbox: Mật khẩu:
+#sign-up__popup_normal_register_form [class=form-group] [name = password]
+* Textbox: Confirm Password
+#sign-up__popup_normal_register_form [class=form-group] [name = confirmPassword]
+* Button “Tiếp tục”
+button.js_button_normal_signup_continue
+* Button “Thẻ VinID” :
+button.forward-signup-by-vinid__button
+* Button “Google”
+button.btn-google
+Form : Đăng nhập
+*Textbox nhập Email/SĐT/số thẻ 
+input#j_username
+* Textbox nhập mật khẩu
+input#j_password
+*button Đăng nhập
+button.js-login-btn
+* button “Facebook”
+button.btn-facebook
+* button “Google” 
+Button.btn-google
+Search Box
+#js-site-search-input
+Suggest Box
+#ui-id-1
+Suggest Item
+#ui-id-20
